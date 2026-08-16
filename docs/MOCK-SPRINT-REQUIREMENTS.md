@@ -365,7 +365,7 @@ mock sprint activities.
 
 ## Document Status
 
-**Current status:** Draft for team review.
+**Current status:** Approved.
 
 Once reviewed and agreed upon by the project team, this document can be used
 as the baseline for UX design, development, testing and final sign-off.
