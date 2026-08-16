@@ -353,15 +353,13 @@ mock sprint activities.
 
 # 12. Review and Sign-Off
 
-This document should be reviewed by the project team before implementation.
-
 | Role | Name | Status | Date |
 |---|---|---|---|
-| Business Analyst | TBD | Drafted | TBD |
-| Project Manager | TBD | Pending Review | TBD |
-| UX | TBD | Pending Review | TBD |
-| Developer 1 | TBD | Pending Review | TBD |
-| Developer 2 | TBD | Pending Review | TBD |
+| Business Analyst | Melito Castillo | Approved | 16/08/2026 |
+| Project Manager | Yueal Tesfay | Approved | 16/08/2026 |
+| UX | Zhihong Tan | Approved | 16/08/2026 |
+| Developer 1 | Joel Muscat | Approved | 16/08/2026 |
+| Developer 2 | Milo Eckersley | Approved | 16/08/2026 |
 
 ---
 
